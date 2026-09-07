@@ -3,3 +3,6 @@
 songs/
 songs.csv
 song-row.html
+browser_profile/
+venv/
+__pycache__/
